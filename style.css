@@ -5,3 +5,48 @@
     font-family: 'Work Sans', sans-serif;
 
 }
+
+/* Banner Section Started*/
+.banner {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 25px;
+
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+}
+
+.banner-image-size {
+    width: 635px;
+}
+
+.btn {
+    margin-top: 32px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* Banner Section End*/
