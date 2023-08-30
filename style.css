@@ -181,3 +181,18 @@
 }
 
 /* hot deal Section End*/
+
+/* Social Section Start*/
+.social-container {
+    text-align: center;
+    margin-top: 128px;
+
+}
+
+.photo-list {
+    margin: 50px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Social Section End*/
