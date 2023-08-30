@@ -196,3 +196,31 @@
 }
 
 /* Social Section End*/
+
+
+/* Deals Section start*/
+
+.deals-container {
+    background-image: url(./images/Rectangle\ 9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 128px;
+    padding: 200px;
+    border-radius: 5px;
+}
+
+.search {
+    margin-left: 200px;
+    padding: 10px 100px;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn2 {
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+/* deals Section End*/
