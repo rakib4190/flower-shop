@@ -52,6 +52,89 @@
 /* Banner Section End*/
 
 
+/* Feature Section Start*/
+.feature-container {
+    text-align: center;
+    margin-top: 178px;
+
+}
+
+.feature-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.feature-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.feature-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 48px 220px;
+}
+
+.box {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    margin-right: 24px;
+
+}
+
+.flower-box1 {
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flower-box2 {
+    background: rgba(5, 151, 160, 0.15);
+    ;
+}
+
+.flower-box3 {
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.item {
+    width: 280px;
+    height: 398px;
+    margin-top: 140px;
+    margin-left: 50px;
+}
+
+.text-part {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    color: #272727;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.title1 {
+    margin-left: 185px;
+}
+
+.title2 {
+    margin-right: 7px;
+}
+
+.title3 {
+    margin-right: 250px;
+}
+
+/* feature Section End*/
+
+
 /* hot deal Section End*/
 .hot-deal-container {
     margin-top: 128px;
